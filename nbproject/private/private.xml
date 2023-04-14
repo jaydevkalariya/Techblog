@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/advanced%20java/jsp/Techblog/src/java/com/tech/blog/entities/Post.java</file>
+            <file>file:/E:/advanced%20java/jsp/Techblog/web/register_page.jsp</file>
+            <file>file:/E:/advanced%20java/jsp/Techblog/src/java/com/tech/blog/servlets/AddCategoryServlet.java</file>
+            <file>file:/E:/advanced%20java/jsp/Techblog/src/java/com/tech/blog/servlets/LikeServlet.java</file>
+            <file>file:/E:/advanced%20java/jsp/Techblog/web/contact2.jsp</file>
+            <file>file:/E:/advanced%20java/jsp/Techblog/src/java/com/tech/blog/servlets/EditServlet.java</file>
+            <file>file:/E:/advanced%20java/jsp/Techblog/web/error_page.jsp</file>
+            <file>file:/E:/advanced%20java/jsp/Techblog/src/java/com/tech/blog/servlets/AddCommentServlet.java</file>
+            <file>file:/E:/advanced%20java/jsp/Techblog/web/WEB-INF/web.xml</file>
+            <file>file:/E:/advanced%20java/jsp/Techblog/web/css/mystyle.css</file>
+            <file>file:/E:/advanced%20java/jsp/Techblog/web/profile.jsp</file>
+            <file>file:/E:/advanced%20java/jsp/Techblog/src/java/com/tech/blog/entities/Category.java</file>
+            <file>file:/E:/advanced%20java/jsp/Techblog/web/js/main.js</file>
+            <file>file:/E:/advanced%20java/jsp/Techblog/src/java/com/tech/blog/servlets/LoginServlet.java</file>
+            <file>file:/E:/advanced%20java/jsp/Techblog/src/java/com/tech/blog/entities/Message.java</file>
+            <file>file:/E:/advanced%20java/jsp/Techblog/src/java/com/tech/blog/dao/CategoryDao.java</file>
+            <file>file:/E:/advanced%20java/jsp/Techblog/web/postDetail.jsp</file>
+            <file>file:/E:/advanced%20java/jsp/Techblog/src/java/com/tech/blog/dao/LikeDao.java</file>
+            <file>file:/E:/advanced%20java/jsp/Techblog/web/pics/default.png</file>
+            <file>file:/E:/advanced%20java/jsp/Techblog/web/js/myjs.js</file>
+            <file>file:/E:/advanced%20java/jsp/Techblog/web/contact.jsp</file>
+            <file>file:/E:/advanced%20java/jsp/Techblog/src/java/com/tech/blog/dao/PostDao.java</file>
+            <file>file:/E:/advanced%20java/jsp/Techblog/src/java/com/tech/blog/dao/BlockUserDao.java</file>
+            <file>file:/E:/advanced%20java/jsp/Techblog/src/java/com/tech/blog/servlets/RegisterServlet.java</file>
+            <file>file:/E:/advanced%20java/jsp/Techblog/src/java/com/tech/blog/entities/Comment.java</file>
+            <file>file:/E:/advanced%20java/jsp/Techblog/web/index.jsp</file>
+            <file>file:/E:/advanced%20java/jsp/Techblog/nbproject/build-impl.xml</file>
+            <file>file:/E:/advanced%20java/jsp/Techblog/web/normal_navbar.jsp</file>
+            <file>file:/E:/advanced%20java/jsp/Techblog/src/java/com/tech/blog/helper/Helper.java</file>
+            <file>file:/E:/advanced%20java/jsp/Techblog/src/java/com/tech/blog/entities/User.java</file>
+            <file>file:/E:/advanced%20java/jsp/Techblog/web/login_page.jsp</file>
+            <file>file:/E:/advanced%20java/jsp/Techblog/web/contact.html</file>
+            <file>file:/E:/advanced%20java/jsp/Techblog/src/java/com/tech/blog/servlets/BlockedUserServlet.java</file>
+            <file>file:/E:/advanced%20java/jsp/Techblog/src/java/com/tech/blog/dao/UserDao.java</file>
+            <file>file:/E:/advanced%20java/jsp/Techblog/src/java/com/tech/blog/entities/PremiumCode.java</file>
+            <file>file:/E:/advanced%20java/jsp/Techblog/src/java/com/tech/blog/dao/PremiumCodeDao.java</file>
+            <file>file:/E:/advanced%20java/jsp/Techblog/src/java/com/tech/blog/servlets/checkPremiumPost.java</file>
+            <file>file:/E:/advanced%20java/jsp/Techblog/web/profile_admin.jsp</file>
+            <file>file:/E:/advanced%20java/jsp/Techblog/web/contactform/css/style.css</file>
+            <file>file:/E:/advanced%20java/jsp/Techblog/web/show_blog_page.jsp</file>
+            <file>file:/E:/advanced%20java/jsp/Techblog/src/java/com/tech/blog/dao/AdminDao.java</file>
+            <file>file:/E:/advanced%20java/jsp/Techblog/src/java/com/tech/blog/servlets/AddPostServlet.java</file>
+            <file>file:/E:/advanced%20java/jsp/Techblog/src/java/com/tech/blog/dao/CommentDao.java</file>
+            <file>file:/E:/advanced%20java/jsp/Techblog/web/userDetail.jsp</file>
+            <file>file:/E:/advanced%20java/jsp/Techblog/web/register_page_admin.jsp</file>
+            <file>file:/E:/advanced%20java/jsp/Techblog/web/load_posts.jsp</file>
+            <file>file:/E:/advanced%20java/jsp/Techblog/web/show_blog_page_admin.jsp</file>
+        </group>
+    </open-files>
+</project-private>
